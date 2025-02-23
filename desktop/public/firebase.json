@@ -1,0 +1,10 @@
+{
+  "hosting": {
+    "public": "desktop/ey-portfolio",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
